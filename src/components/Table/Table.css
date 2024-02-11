@@ -30,3 +30,10 @@
     color: rgb(124, 13, 13) !important;
     font-weight: 500;
 }
+
+@media screen and (max-width : 1200px){
+    .Table{
+        width: 170%;
+        margin-top: 2rem;
+    }
+}
