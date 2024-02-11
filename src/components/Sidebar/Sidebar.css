@@ -28,7 +28,7 @@
 }
 
 .logo>img {
-    width: 3rem;
+    width: 5rem;
     height: 3rem;
 }
 
@@ -120,7 +120,7 @@
     .bars {
         display: flex;
         position: fixed;
-        top: 2rem;
+        top: 3rem;
         left: 60%;
         background: #ffe0e0;
         padding: 10px;

@@ -1,6 +1,6 @@
 import "./Sidebar.css"
 import React, { useState } from 'react'
-import Logo from "../../imgs/logo.png"
+import Logo from "../../imgs/aura.png"
 import { UilSignOutAlt, UilBars } from "@iconscout/react-unicons"
 import { SidebarData } from "../../Data/Data"
 import { motion } from "framer-motion"
@@ -26,7 +26,7 @@ const Sidebar = () => {
                 {/* logo */}
                 <div className="logo">
                     <img src={Logo} alt="" />
-                    <span>Dash<span>min</span></span>
+                    {/* <span>Dash<span>min</span></span> */}
                 </div>
 
                 {/* menu */}
